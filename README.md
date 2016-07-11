@@ -12,7 +12,7 @@ cocos2d-js引擎按模块打包工具。
 使用npm全局安装，如果需要更新，为保险起见，请先删除原来的版本（install改成uninstall就行了）.**必须全局安装**
 
 ```
-npm install -g cocos-builder
+npm install -g git+https://github.com/4Enjoy/cocos-builder.git
 ```
 
 ###2. 使用方法
