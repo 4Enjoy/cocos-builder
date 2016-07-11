@@ -513,7 +513,7 @@
             "extensions/gui/scrollview/CCTableView.js",
             "extensions/ccui/base-classes/UIScale9Sprite.js",
             "extensions/ccui/base-classes/UIScale9SpriteCanvasRenderCmd.js",
-            "extensions/ccui/base-classes/UIScale9SpriteWebGLRenderCmd.js",
+            "extensions/ccui/base-classes/UIScale9SpriteWebGLRenderCmd.js"
         ],
         "gui-webgl": [
             "extensions/gui/scrollview/CCScrollViewWebGLRenderCmd.js"
