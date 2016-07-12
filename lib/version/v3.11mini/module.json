@@ -219,10 +219,13 @@
         "progress-timer": [
             "core",
             "actions",
-            "extensions/Empty.js"
+            "cocos2d/progress-timer/CCProgressTimer.js",
+            "cocos2d/progress-timer/CCProgressTimerCanvasRenderCmd.js",
+            "cocos2d/progress-timer/CCActionProgressTimer.js"
         ],
         "progress-timer-webgl": [
-            "extensions/Empty.js"
+            "extensions/Empty.js",
+            "cocos2d/progress-timer/CCProgressTimerWebGLRenderCmd.js"
         ],
         "render-texture": [
             "core",
