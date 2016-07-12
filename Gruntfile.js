@@ -58,6 +58,10 @@ module.exports = function(grunt) {
                         "DEBUG": true
                     },
                     dead_code: true
+                },
+                beautify: {
+                    indent_level: 0,
+                    beautify: true
                 }
             },
             my_target: {
